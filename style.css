@@ -10,6 +10,7 @@ article{
   border-style: solid;
   border-color: green;
   border-width: 3px;
-  padding: 100px;
+  padding: 10px;
+  margin: 20px;
   float: left;
 }
